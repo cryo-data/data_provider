@@ -1,4 +1,0 @@
-[submodule "pangaea/762898/data_provider/{pangaea/762898}"]
-	path = pangaea/762898/data_provider/{pangaea/762898}
-	url = https://github.com/cryo-data/rennermalm_river_discharge_AK-05-001
-	datalad-id = 5b516fac-eb59-43ad-ad89-d6019445eb72
