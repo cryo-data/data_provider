@@ -10,3 +10,7 @@
 	path = dryad/CALFIN
 	url = https://github.com/cryo-data/Cheng_2020_CALFIN_1972-2019_DRYAD
 	datalad-id = f98ca6ad-707c-4b41-ad34-000abac25c28
+[submodule "pangaea/762898"]
+	path = pangaea/762898
+	url = https://github.com/cryo-data/rennermalm_river_discharge_AK-05-001
+	datalad-id = 5b516fac-eb59-43ad-ad89-d6019445eb72
